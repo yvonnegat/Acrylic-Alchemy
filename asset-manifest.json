@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/Acrylic-Alchemy/static/css/main.87660789.css",
-    "main.js": "/Acrylic-Alchemy/static/js/main.b4cff2e2.js",
+    "main.js": "/Acrylic-Alchemy/static/js/main.72300708.js",
     "index.html": "/Acrylic-Alchemy/index.html",
-    "main.87660789.css.map": "/Acrylic-Alchemy/static/css/main.87660789.css.map",
-    "main.b4cff2e2.js.map": "/Acrylic-Alchemy/static/js/main.b4cff2e2.js.map"
+    "main.72300708.js.map": "/Acrylic-Alchemy/static/js/main.72300708.js.map"
   },
   "entrypoints": [
-    "static/css/main.87660789.css",
-    "static/js/main.b4cff2e2.js"
+    "static/js/main.72300708.js"
   ]
 }
