@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Acrylic-Alchemy/static/js/main.6970ce37.js",
+    "main.js": "/Acrylic-Alchemy/static/js/main.eb1f996a.js",
     "index.html": "/Acrylic-Alchemy/index.html",
-    "main.6970ce37.js.map": "/Acrylic-Alchemy/static/js/main.6970ce37.js.map"
+    "main.eb1f996a.js.map": "/Acrylic-Alchemy/static/js/main.eb1f996a.js.map"
   },
   "entrypoints": [
-    "static/js/main.6970ce37.js"
+    "static/js/main.eb1f996a.js"
   ]
 }
